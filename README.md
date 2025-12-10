@@ -27,6 +27,6 @@ Welcome to the **IES-Fausti-Barbera** repository. This repository contains the m
 
 > "Education is the most powerful weapon which you can use to change the world." – Nelson Mandela
 
-![Center Logo](![OIP-241273583](https://github.com/user-attachments/assets/f0865daa-44fd-48f6-a491-472c6eda06d9)
+![Center Logo]((![OIP-241273583](https://github.com/user-attachments/assets/f0865daa-44fd-48f6-a491-472c6eda06d9))
   
 Here are some icons: 📚 🧑‍🏫 🎓
