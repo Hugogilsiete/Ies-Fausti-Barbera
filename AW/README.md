@@ -2,7 +2,7 @@
 
 **Teacher:** SERGIO LAGUNA OLMO
 
-Tarea 2.4
+Task 2.4
 
 ## Aules
 
